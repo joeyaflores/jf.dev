@@ -11,13 +11,6 @@ const socials = [
 		label: "Twitter",
 		handle: "@joeyantf",
 	},
-	
-	// {
-	// 	icon: <Mail size={20} />,
-	// 	href: "mailto:dev@chronark.com",
-	// 	label: "Email",
-	// 	handle: "joeyflores74@gmail.com",
-	// },
 	{
 		icon: <Linkedin size={20} />,
 		href: "https://www.linkedin.com/in/joeyaflores/",
